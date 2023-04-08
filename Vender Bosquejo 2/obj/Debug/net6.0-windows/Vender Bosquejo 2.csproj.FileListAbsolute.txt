@@ -1,0 +1,19 @@
+C:\Users\aleja\Source\Repos\Vender Bosquejo 2\bin\Debug\net6.0-windows\Vender Bosquejo 2.exe
+C:\Users\aleja\Source\Repos\Vender Bosquejo 2\bin\Debug\net6.0-windows\Vender Bosquejo 2.deps.json
+C:\Users\aleja\Source\Repos\Vender Bosquejo 2\bin\Debug\net6.0-windows\Vender Bosquejo 2.runtimeconfig.json
+C:\Users\aleja\Source\Repos\Vender Bosquejo 2\bin\Debug\net6.0-windows\Vender Bosquejo 2.dll
+C:\Users\aleja\Source\Repos\Vender Bosquejo 2\bin\Debug\net6.0-windows\Vender Bosquejo 2.pdb
+C:\Users\aleja\Source\Repos\Vender Bosquejo 2\obj\Debug\net6.0-windows\Vender Bosquejo 2.csproj.AssemblyReference.cache
+C:\Users\aleja\Source\Repos\Vender Bosquejo 2\obj\Debug\net6.0-windows\Vender_Bosquejo_2.Form1.resources
+C:\Users\aleja\Source\Repos\Vender Bosquejo 2\obj\Debug\net6.0-windows\Vender Bosquejo 2.csproj.GenerateResource.cache
+C:\Users\aleja\Source\Repos\Vender Bosquejo 2\obj\Debug\net6.0-windows\Vender Bosquejo 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Source\Repos\Vender Bosquejo 2\obj\Debug\net6.0-windows\Vender Bosquejo 2.AssemblyInfoInputs.cache
+C:\Users\aleja\Source\Repos\Vender Bosquejo 2\obj\Debug\net6.0-windows\Vender Bosquejo 2.AssemblyInfo.cs
+C:\Users\aleja\Source\Repos\Vender Bosquejo 2\obj\Debug\net6.0-windows\Vender Bosquejo 2.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Source\Repos\Vender Bosquejo 2\obj\Debug\net6.0-windows\Vender Bosquejo 2.dll
+C:\Users\aleja\Source\Repos\Vender Bosquejo 2\obj\Debug\net6.0-windows\refint\Vender Bosquejo 2.dll
+C:\Users\aleja\Source\Repos\Vender Bosquejo 2\obj\Debug\net6.0-windows\Vender Bosquejo 2.pdb
+C:\Users\aleja\Source\Repos\Vender Bosquejo 2\obj\Debug\net6.0-windows\Vender Bosquejo 2.genruntimeconfig.cache
+C:\Users\aleja\Source\Repos\Vender Bosquejo 2\obj\Debug\net6.0-windows\ref\Vender Bosquejo 2.dll
+C:\Users\aleja\Source\Repos\Vender Bosquejo 2\obj\Debug\net6.0-windows\Vender_Bosquejo_2.Form2.resources
+C:\Users\aleja\Source\Repos\Vender Bosquejo 2\obj\Debug\net6.0-windows\Vender_Bosquejo_2.Form3.resources
